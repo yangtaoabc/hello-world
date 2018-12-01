@@ -1,7 +1,7 @@
 # hello-world
-115
+Learn how to use github.
 
 
 Hi,
 
-I'm Yang, I like peach.
+I'm Yang.
